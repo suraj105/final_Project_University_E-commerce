@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "apex-shoppers",
+  "private_key_id": "f0a047083f0259dbbf35be3efbea95eefff6c94a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5/pGZtNrcAVQr\nhvnv+W+iZM/yP40vQVZUvIgCoE1Tu7xfoDIbGl07qrnjKoh2JyLxz2gltvgvug+/\nZhtim7Ox07naDtObK9eYjeHoV9tR/SASbUHuRZiArVSA/r0+KM9gQPAszrQ5v27X\nfN40f6Gh39AqV5KFfWDXRN2Emw7t5XD/SaHAfcl2P+YoQ0Ydy7G45VLaIabYZNbk\nC1v4TcFa/PMe4GSVBhCkZx0JwIgwITrtHMaVlYZKjmU4sJ8UPMpuEHUAkAgtzPqt\nfO65Rf07ziQgFAQqQ4uzt4CcdH+BWBcrpd6JI6aGYzTml/mBnK9TgTXQO0PIt+cJ\nbcCza2R5AgMBAAECggEAFIFbmYPOHjO6TRsyKnIIS/HL2DQH83YDV8+6Ofnk1I6t\nx6ggZgsLzNR3bnNFvKr3aAva+k94AMEFU+9kpQQv9TK3unHog+K7P+sihQxMlncu\n5kEr4+JB3Cvf1WHgSL5UkJLQN8xpI7W2eWTflY+dqPxFFan2cieeudTyjBhRNspk\n0AULQYCbF6BXaEean5eTXH8x4WG/8hquXQBje+/6rzsZYGY/Ft5qcRoYaVY3z8z0\nxTzthpTGg7JH1v70novvHwDAxYr0JojMFLQC8VgSDNTdZ0GN/qVVIf55lHL8mf9Y\nbyFiLrJUNkzqhcTKMSuLmUMVnd1TtrBTF76S1IkQNQKBgQDvKM/xOpfhLEqfhm5N\nGA2QtzcRnuBuDK+UrjGxyGQ670T0Cgc+VnEz/+MDm/mdZfYd1LHOy1mq7fySEvUW\nlh3FxuJCsrneHOM2QeIy/TU4hdGJqLMmZNIbnie/0ykrogxprwjIrbOUbmI/3jF6\nv3EGkrTVBo8OMxlNJMQ6QkxtNQKBgQDHF2G4KCbZfzj5njDijVKGleWMuVdfXi0x\n2jLB3ssltB8UeR+RysYr1v7VN5SL2dQS+1JcQ5NKAXTZfRh98WLatGIRKlFMiEPt\nTtuF7a/C4XtOZl9y8pj6Z8IiPic2ZNsUVfkv01LX1M3Bn9KbNhNcjBZ6Y4IvXZ53\nl+BuoxU2tQKBgFRQvibcsmkHVXOyUDbL0RSBE2AZ9CO4QzqWwxxbesKwUk37LxyS\nGyzq/Nzr42/TX5aawukWFhHF/3J8Tn3dBLgSavh6zD57Trt1NMsnK9k2jG4M1MQn\nbU+hTYA6cNxaMCgeNmmRm6sr02WS7zzIO4/GrwwfWNX3u+bPnIKxlwI1AoGARuZ5\nw2ZxJ2WaObLvP88KQ6mgHPRoPCtCtw04pDgeamfx5Y2ZA4eN+VDQYcgwW3mQf84G\nr5rVGjbYkRduoHNVPAOfJPPIDhQ89IbvwIs725AHJI1qknn4prxKs30k48cZCe3w\nFusQBpLfT4QGMYYZcQzmeGF1nD6fz4FDyMLFLD0CgYAsJy93kUqYkqOHbyIn/4Cd\nphYJ8wgufALH1w8mYjN/mNySRr23O9iMUf2gm1owTbZieNov6Sq39C2LLqj45bZX\nodxFlbPIiYV3Hnd9YggT+5eDMdpMOe3G+BhauDDsreLcnP3JrlHIe86rCyFEgQ75\nQ0ms6TdnfHNi9G/pXjycJg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-b58wb@apex-shoppers.iam.gserviceaccount.com",
+  "client_id": "102964186181368132186",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-b58wb%40apex-shoppers.iam.gserviceaccount.com"
+}
