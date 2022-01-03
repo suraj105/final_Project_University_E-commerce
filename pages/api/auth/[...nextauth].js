@@ -7,4 +7,4 @@ import GoogleProvider from "next-auth/providers/google";
       clientSecret: process.env.GOOGLE_SECRET,
     }),
     // ...add more providers here
-  ],
+  ]
