@@ -16,7 +16,6 @@ function baskets() {
   const createCheckoutSession = async () => {
     try {
       const stripe = await stripePromise;
-
       const CheckoutSession = await axios.post("/api/create-checkout-session", {
         items: items,
         email: session.user.email,
