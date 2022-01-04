@@ -14,19 +14,21 @@ function baskets() {
   console.log(items);
 
   const createCheckoutSession = async () => {
-    const stripe = await stripePromise;
+    try {
+      const stripe = await stripePromise;
 
-    const CheckoutSession = await axios.post("/api/create-checkout-session", {
-      items: items,
-      email: session.user.email,
-    });
+      const CheckoutSession = await axios.post("/api/create-checkout-session", {
+        items: items,
+        email: session.user.email,
+      });
 
-    const result = await stripe.redirectToCheckout({
-      sessionId: CheckoutSession.data.id,
-    });
-
-    if (result.error) {
-      alert(result.error.message);
+      const result = await stripe.redirectToCheckout({
+        sessionId: CheckoutSession.data.id,
+      });
+    } catch (err) {
+      if (result.err) {
+        alert(result.err.message);
+      }
     }
   };
 
