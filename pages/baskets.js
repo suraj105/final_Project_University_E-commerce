@@ -22,10 +22,11 @@ function baskets() {
         email: session.user.email,
       });
 
-      const result = await stripe.redirectToCheckout({
+     
+    } catch (err) {
+       const result = await stripe.redirectToCheckout({
         sessionId: CheckoutSession.data.id,
       });
-    } catch (err) {
       if (result.err) {
         alert(result.err.message);
       }
